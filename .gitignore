@@ -1,0 +1,14 @@
+# Java
+.gradle/
+build/
+out/
+*.class
+
+# Node / React
+node_modules/
+dist/
+.env
+
+# IDE
+.idea/
+.vscode/
