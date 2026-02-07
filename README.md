@@ -11,7 +11,7 @@ TrafficReserve는 **많은 사용자가 동시에 예약을 시도해도 데이�
 
 | 구분       | 기술                        | 사용 목적                   |
 | -------- | ------------------------- | ----------------------- |
-| Backend  | Java 17, Spring Boot 3.x  | 예약 처리 및 트래픽 제어 핵심 로직 구현 |
+| Backend  | Java, Spring Boot         | 예약 처리 및 트래픽 제어 핵심 로직 구현 |
 | Frontend | React (Vite)              | 관리자용 실시간 예약 현황 대시보드     |
 | Database | MariaDB (JPA / Hibernate) | 회원, 상품, 예약 데이터 저장       |
 | 동시성 제어   | Redis, Redisson           | 동시에 들어오는 예약 요청 순서 제어    |
